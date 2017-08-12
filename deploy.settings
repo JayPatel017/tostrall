@@ -1,0 +1,7 @@
+siteUrl =  https://github.com/JayPatel017/tostral
+gitUrl = https://github.com/JayPatel017/tostral.git
+version = 1.0
+groupId = com.tostral.tostral
+licenses = ['Apache-2.0']
+id = tostral
+name = tostral
